@@ -2,7 +2,7 @@
     {
 		"key": "tab",
 		"command": "-acceptSelectedSuggestion",
-        "when": "suggestWidgetVisible && textInputFocus"
+ 		"when": "suggestWidgetVisible && textInputFocus"
 	},
     {
         "command": "vscode-neovim.compositeEscape1",
