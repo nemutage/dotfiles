@@ -1,0 +1,9 @@
+{
+    "files.autoGuessEncoding": true,
+    "editor.snippetSuggestions": "top",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+
+    "vscode-neovim.neovimExecutablePaths.darwin": "",
+    "vscode-neovim.neovimInitVimPaths.darwin": "",
+    "vscode-neovim.textDecorationsAtTop": true
+}
